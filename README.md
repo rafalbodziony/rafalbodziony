@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafalbodziony/rafalbodziony/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafalbodziony/rafalbodziony/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
