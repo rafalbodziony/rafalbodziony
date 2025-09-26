@@ -79,7 +79,8 @@ Po godzinach trenuję na siłowni, biegam i spędzam czas aktywnie na świeżym 
 
 ###
 
-<h2 align="left">Mój warsztat pracy:
+<h2 align="left">
+Mój warsztat pracy:
 </h2>
 <p align="left">
   <samp>Każde z prezentowanych tu narzędzi zostało gruntownie przetestowane i stanowi kluczowy element wspierający moją codzienną pracę
